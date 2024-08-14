@@ -43,7 +43,7 @@ export default function Home() {
         <div className="relative w-full bg-gray-500 text-white p-4 flex justify-end">
           <div className="absolute bottom-0 left-0 inset-0 flex items-center justify-center text-center">
             <h1 className="text-6xl font-bold text-white bg-black bg-opacity-50 p-6 rounded-lg">
-              Check out our videos
+              Check out our Videos
             </h1>
           </div>
           <Image
